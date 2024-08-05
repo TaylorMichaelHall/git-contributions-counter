@@ -1,4 +1,4 @@
-# Git Contributor Analysis
+# Git Contribution Counter
 
 This Go script analyzes Git repository contributions, displaying a bar graph of commits per contributor and allowing for detailed contributor information.
 
