@@ -1,3 +1,5 @@
+# NOTICE: This is now built into the [gitstats](https://github.com/TaylorMichaelHall/gitstats) cli and this repo will be archived.
+
 # Git Contribution Counter
 
 This Go script analyzes Git repository contributions, displaying a bar graph of commits per contributor and allowing for detailed contributor information.
